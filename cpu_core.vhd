@@ -10,7 +10,7 @@
 -- Revision 1.01 - File Modified by Raju Machupalli (October 31, 2021)
 -- Revision 2.01 - File Modified by Shyama Gandhi (November 2, 2021)
 -- Revision 3.01 - File Modified by Antonio Andara (October 31, 2023)
--- Revision 4.01 - File Modified by Oghenefegor Enwa and Shivang Duseja(December 1, 2023)
+-- Revision 4.01 - File Modified by Oghenefegor Enwa(December 1, 2023)
 -- *******************************************************************************
 -- Additional Comments:
 -- The CPU core integrates the datapath and the controller FSM
