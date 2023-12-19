@@ -8,7 +8,7 @@
 -- Revision 0.01 - File Created
 -- Revision 1.01 - File Modified by Shyama Gandhi (Nov 2, 2021)
 -- Revision 3.01 - File Modified by Antonio Andara (October 31, 2023)
--- Revision 4.01 - File Modified by Oghenefegor Enwa and Shivang Duseja(December 1, 2023)
+-- Revision 4.01 - File Modified by Oghenefegor Enwa (December 1, 2023)
 -- Additional Comments:
 --*********************************************************************************
 --THIS IS A 4x1 MUX that selects between the four 8- bit inputs as shown in
